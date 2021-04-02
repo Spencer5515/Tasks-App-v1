@@ -6,5 +6,5 @@ Author: Spencer C. DeMera\
  Libraries / Technologies: React, react-native, JaveScript, AsyncStorage API
  
  ---
-Development status: This is Version 1.0 of a intended-for-android Task Manager application. Program is written using react-native and basic JS 
+Development status: This is Version 1.0 of an intended-for-android Task Manager application. Program is written using react-native and basic JS 
   principles learned from freeCodeCamp, forums, and Youtube Tutorials.
